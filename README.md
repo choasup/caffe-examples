@@ -2,12 +2,12 @@
 
 ### Object Detection
 
-* SSD
-* Faster RCNN
-* YOLO
-* YOLOv2
+* SSD(MSCOCO 80)
+* Faster RCNN(VOC 20)
+* YOLO(VOC 20)
+* YOLOv2(VOC 20)
 
 ### Scene Understanding
 
-* Places2
+* Places-VGG(Places 205, Sun Attributes)
 
