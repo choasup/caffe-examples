@@ -1,12 +1,13 @@
-# C++ Demos
-# C++ Class file for Object Detection and Scene Classification & Attibutes.
+# C++ Demos(Object Detection and Scene Understanding.)
 
-## Object Detection
-### SSD
-### Faster RCNN
-### YOLO
-### YOLOv2
+### Object Detection
 
-## Scene Understanding
-### Places2
+* SSD
+* Faster RCNN
+* YOLO
+* YOLOv2
+
+### Scene Understanding
+
+* Places2
 
