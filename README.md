@@ -11,4 +11,4 @@
 
 * Places-VGG(Places 205, Sun Attributes)
 
-If you need caffemodels, you can contact with me ^_^ ~
+If you need caffemodels, you can contact with me. ^_^
