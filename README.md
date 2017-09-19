@@ -6,7 +6,7 @@
 * Faster RCNN(VOC 20)
 * YOLO(VOC 20)
 * YOLOv2(VOC 20)
-* YOLO9000(ImageNet 9000) /python-examples/YOLO9000
+* YOLO9000(ImageNet 9000) "/python-examples/YOLO9000"
 
 ### Scene Understanding
 
